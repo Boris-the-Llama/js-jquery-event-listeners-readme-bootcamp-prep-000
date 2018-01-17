@@ -12,7 +12,7 @@ function frameIt() {
 }
 
 function pressIt() {
-  $('')
+  $('input').on('')
 }
 $(document).ready(function(){
 
